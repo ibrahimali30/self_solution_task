@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/add_project"
+        android:title="add project"
+        android:icon="@drawable/ic_add_black_24dp"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/log_out"
+        android:title="log out"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
